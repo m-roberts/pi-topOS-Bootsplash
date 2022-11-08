@@ -1,3 +1,23 @@
+pt-os-bootsplash (2.0.3-3) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#10)
+  * Add signing key and passphrase to deb_release workflow
+  * Add pull request template
+  * Update PR template to track Github issues
+  * [pre-commit.ci] pre-commit autoupdate (#11)
+  * Updated master workflow files
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#12)
+  * [pre-commit.ci] pre-commit autoupdate (#13)
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 12:54:59 +0000
+
 pt-os-bootsplash (2.0.3-2) bullseye; urgency=medium
 
   * Updated master workflow files
